@@ -1,0 +1,7 @@
+{
+  "name": "OneSignal Example ttt",
+  "short_name": "OneSignalExample ttt",
+  "start_url": "/",
+  "display": "standalone ttt",
+  "gcm_sender_id": "482941778795"
+}
